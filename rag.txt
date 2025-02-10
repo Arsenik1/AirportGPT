@@ -1,0 +1,546 @@
+[
+  {
+    "question": "What transport can I use to access the airport?",
+    "answer": "You can access our airport using public transport, private car, or taxi. For public transportation options, please visit Airport Transportation (https://www.istairport.com/en/airport/airport-transportation/) and for private vehicle transportation, visit https://www.istairport.com/en/passenger/transport/driving-direction. (https://www.istairport.com/en/passenger/transport/driving-direction?locale=en)\n\n[YouTube video: (https://www.youtube.com/embed/dOazgYBWO-o)]"
+  },
+  {
+    "question": "How can I get to the city center from the Airport?",
+    "answer": "You can use public transportation or a taxi to reach the city center. For transportation options, please visit HAVAİST at;  https://hava.ist (https://hava.ist/) and İETT at   https://www.iett.istanbul (https://www.iett.istanbul/).\n\n[YouTube video: (https://www.youtube.com/embed/wuDY8t5McJY)]"
+  },
+  {
+    "question": "Where do HAVAİST buses depart from?",
+    "answer": "For information about HAVAİST bus schedules, visit https://www.hava.ist (https://www.hava.ist/en). The transport floor, where HAVAİST and İETT buses depart from, can be accessed from floor -2, which can be reached by using the elevators located in front of the arrival and departure entrance gates, and following the \"Transport Floor\" signs.\n\n[YouTube video: (https://www.youtube.com/embed/JbrNMi50ueE)]"
+  },
+  {
+    "question": "How do I make payment for the HAVAİST buses?",
+    "answer": "Payments can be made in  **cash**  at ticket counters or designated intermediate stops or by  **debit/credit card**  in the vehicle. You can also obtain a **QR code** before boarding by making an **online payment** through the **HAVAİST mobile application** or the   https://hava.ist (https://hava.ist/en) website and use this code when boarding.\n\n[YouTube video: (https://www.youtube.com/embed/RtDcZc4oz5I)]"
+  },
+  {
+    "question": "Which IETT buses can I use to access to the airport?",
+    "answer": "You can access information regarding arriving and departing from our airport via  https://www.iett.istanbul/en/main/pages/access-to-airports/798 (https://www.iett.istanbul/en/main/pages/access-to-airports/798).\n\n[YouTube video: (https://www.youtube.com/embed/RtDcZc4oz5I)]"
+  },
+  {
+    "question": "From where can I learn bus fares?",
+    "answer": "You can learn Havaist bus fares provided a service at our airport from  https://hava.ist (https://hava.ist/). and you can learn IETT bus fares from  https://www.iett.istanbul/ (https://www.iett.istanbul.)."
+  },
+  {
+    "question": "Can I get to the airport by subway?",
+    "answer": "(M11) Gayrettepe - Istanbul Airport metro line has started operating with 7 stops between Kağıthane - Istanbul Airport.\nIstanbul Airport Metro Stations\n* Kağıthane\n* Üniversite-Hasdal\n* Kemerburgaz\n* Göktürk\n* İhsaniye\n* İstanbul Havalimanı\n* Kargo Terminal"
+  },
+  {
+    "question": "What services are offered at the airport parking area?",
+    "answer": "The airport parking area, which has a capacity for 40,000 cars, offers parking, valet, and car maintenance services. Central services, such as car wash, car detailing, tire change and storage, mini maintenance, and various other authorized services, are provided. You can find more detailed information about our airport parking facilities at Car Park & Valet (https://www.istairport.com/en/airport/airport-transportation/airport-carpark/)."
+  },
+  {
+    "question": "Where can I find information about parking fees?",
+    "answer": "Get pricing information by entering the dates on which you are going to leave your vehicle, in the Car Park & Valet (https://www.istairport.com/en/airport/airport-transportation/airport-carpark/) section of our website. These rates are determined in line with the parking fees established by the DHMI (General Directorate of State Airports Authority) Public-Private Partnership (KÖİ)."
+  },
+  {
+    "question": "What payment methods are accepted at the parking facilities?",
+    "answer": "Parking fees can be paid in cash or by credit card using the manual payment devices on floor P3 of the red and purple parking lots, as well as the 30 automatic payment devices located next to the moving walkways on floor P5, at the L02 axis near the P2 exit points, and next to the elevators on the P6 terrace. Alternatively, credit card payments can be made at the information desks on the departures floor or through the Istanbul Airport mobile application."
+  },
+  {
+    "question": "Can I reserve a parking space in advance?",
+    "answer": "Currently, our parking area does not offer a reservation system"
+  },
+  {
+    "question": "How do I purchase a subscription for the Parking area?",
+    "answer": "Subscriptions for 15 and 30 days can be completed using the manual payment machines located in the red parking lot, on floor P3, at the manual payment machine in the purple parking lot, on floor P3, or at the information desks situated on the departures floor within 3 hours of your arrival at the parking garage. Payment at the information desks on the departures floor can only be made by credit card. Short-term subscriptions for 15 days can also be completed using the automatic payment machines available in the parking area, within one hour of your arrival at the parking garage."
+  },
+  {
+    "question": "Is there a car wash service in your parking area?",
+    "answer": "The car wash service is available on floor R of the parking garage, and guests using the valet service can make use of this."
+  },
+  {
+    "question": "Does your parking facility offer a valet service?",
+    "answer": "Valet service is offered at our airport. Guests who would like to book a valet service will also receive a short-term parking subscription, provided they inform the valet staff when handing over their vehicles."
+  },
+  {
+    "question": "Where are the valet pick-up and delivery points located?",
+    "answer": "There are three valet pick-up points: one located on the departing passenger floor opposite Gate 3 of the purple parking lot, floor P6, a second point is located opposite Gate 5 in the red parking area, floor P6, and the last one is located in the CIP parking area. On the arrival passenger floor, there are two valet pick-up points located opposite Gate 9 in the purple parking lot, floor P3, and opposite Gate 13 in the red parking lot, floor P3."
+  },
+  {
+    "question": "How much is the valet service at the airport?",
+    "answer": "The valet service at our airport is TRY 350. Parking fees are not included in this price. You can pay your valet service fee at the Domestic Valet Payment Point located inside the terminal at Gate 9 and Gate 13 on the arrivals floor, or at the Manual Payment Kiosks available inside the car park on the Purple or Red Car Park Floor P3."
+  },
+  {
+    "question": "My car has broken down/its battery has run down in the parking area; what can I do?",
+    "answer": "Contact the parking area staff, who will be able to assist you."
+  },
+  {
+    "question": "Does the X-Ray scanner pose any health risks?",
+    "answer": "The X-ray scanners used at Istanbul Airport are only used to inspect your belongings. Alternative scanning systems (door-type and handheld detectors) do not rely on X-ray technology."
+  },
+  {
+    "question": "If asked to pass through the security scanner, can I request an alternative scanning method?",
+    "answer": "You can choose an alternative scanning method (pat-down search, in-cabin search) as determined by the checkpoint staff."
+  },
+  {
+    "question": "Are children required to pass through the security scanner?",
+    "answer": "In line with airport regulations, security checks for children classified as special category passengers, can be conducted by a pat-down search."
+  },
+  {
+    "question": "I am pregnant / I use a cardiac pacemaker. Am I required to go through the X-Ray scanner or metal detector?",
+    "answer": "Security checks for special category passengers, such as children, pregnant women, and those who use cardiac pacemakers, can be conducted through a pat-down search.\n\n[YouTube video: (https://www.youtube.com/embed/8_Ydg1dxdVA)]"
+  },
+  {
+    "question": "What items are permitted through the security checkpoint at the airport?",
+    "answer": "To find out which items are permitted through airport security checkpoints, please refer to the website of the General Directorate of Civil Aviation at:  http://web.shgm.gov.tr/tr/yolcular-icin/3889-index (http://web.shgm.gov.tr/tr/yolcular-icin/3889-index). For information regarding prohibited materials on the aircraft, please contact your airline company."
+  },
+  {
+    "question": "Can I see the image produced by the X-ray scanner?",
+    "answer": "Should you decide to submit a legal application regarding this matter, your submission will be thoroughly reviewed and you will be notified accordingly."
+  },
+  {
+    "question": "Can my infant's car seat be put through the security checkpoint for use on the aircraft?",
+    "answer": "If the infant car seat does not contain any prohibited or restricted materials, there should be no issue in putting it through the security checkpoints. However, we advise you to consult the airline regarding the transportation of an infant car seat into the aircraft cabin."
+  },
+  {
+    "question": "Are biometric passport checkpoints available?",
+    "answer": "There are 30 counters using biometric identification located in the departure and arrival passport control areas for the convenience of Turkish citizens and other eligible passengers. For more information on how to use these, please visit  https://www.nvi.gov.tr/sss-pasaport (https://www.nvi.gov.tr/sss-pasaport)"
+  },
+  {
+    "question": "Am I allowed to carry the products I purchased in the Duty Free area into the aircraft cabin?",
+    "answer": "Please consult your airline for information about taking products purchased in the Duty Free area, into the aircraft cabin."
+  },
+  {
+    "question": "Can I carry an ice pack or cooler bag?",
+    "answer": "If there is no fluid inside the ice pack, it can be taken onboard as cabin baggage, without being subject to any liquid restrictions."
+  },
+  {
+    "question": "What is the procedure for oversized baggage?",
+    "answer": "Oversized or irregular-shaped baggage must be scanned at the oversized baggage X-ray machine at entrance gate number 7. Please contact your airline company prior to your arrival at the airport, as oversized baggage can be sent to the hold via the oversized baggage counters at check-in islands C, E, G, L, N, and R."
+  },
+  {
+    "question": "Does the security scan affect camera film?",
+    "answer": "In accordance with the National Civil Aviation Security Program, professional camera film is inspected using special Changing Tents. If no Changing Tent is available, the film must be scanned by the security device, with consent from the owner; if no consent is given, the film will not be permitted to pass."
+  },
+  {
+    "question": "How do I travel with a firearm?",
+    "answer": "You may proceed with your flight after submitting your weapon at the designated weapon submission points located at gates 1, 5, and 7."
+  },
+  {
+    "question": "What if my belongings are rejected during the security check?",
+    "answer": "Prohibited items, as identified in the National Civil Aviation Security Program, will not be permitted through the security check and will be disposed of. Prohibited items will be destroyed and *cannot be retrieved from the disposal facility.* To avoid this, we recommend that you review the current security restrictions at  http://web.shgm.gov.tr/tr/yolcular-icin/3889-index (http://web.shgm.gov.tr/tr/yolcular-icin/3889-index) and contact your airline company before arriving at the airport."
+  },
+  {
+    "question": "Am I permitted to carry electronic and electrical devices, such as laptops, MP3 players, or portable DVD players?",
+    "answer": "Laptops, tablets, and other electronic devices must pass through the X-ray device separately from your other belongings, and without covers or bags. You should be able to switch these devices on to show that they work. If the device does not function, or if the security staff have any reason to be suspicious, the device will be scanned using the Explosive Trace Detection Device.\nFor example, it is prohibited to carry electronic skateboards with batteries in the hold. Prior to putting these into the hold, the batteries should be removed from the skateboard, and assessed individually. To avoid this, we recommend that you review the current security restrictions at  http://web.shgm.gov.tr/tr/yolcular-icin/3889-index (http://web.shgm.gov.tr/tr/yolcular-icin/3889-index)."
+  },
+  {
+    "question": "Am I permitted to carry an electronic cigarette in my carry-on baggage?",
+    "answer": "Please consult your airline company for information about electronic cigarettes onboard the aircraft."
+  },
+  {
+    "question": "Can I carry breast milk even if I am traveling without my baby?",
+    "answer": "In line with the National Civil Aviation Security Program guidelines, liquids exceeding 100 ml are restricted in the aircraft cabin and include breast milk. Liquids up to 100 ml are permitted in the aircraft cabin in 100 ml containers, which must fit into a single 20 x 20 cm transparent bag per person (available at our checkpoints). Liquids are permitted in the cabin after they have passed through the security checks. View the current regulations and more detailed information about this on  http://web.shgm.gov.tr/tr/yolcular-icin/3889-index (http://web.shgm.gov.tr/tr/yolcular-icin/3889-index)."
+  },
+  {
+    "question": "Am I permitted to carry liquid baby formula, prepared milk, soy milk, rice milk, or sterilized water in the cabin?",
+    "answer": "More than 100ml of baby formula is only allowed if the infant is also traveling on that flight, and the quantity of formula is sufficient only for the duration of the journey. These liquids are permitted after being checked at the security checkpoint. View the current regulations and more detailed information about this on  http://web.shgm.gov.tr/tr/yolcular-icin/3889-index (http://web.shgm.gov.tr/tr/yolcular-icin/3889-index)\n\n[YouTube video: (https://www.youtube.com/embed/X8gj1DDb58M)]"
+  },
+  {
+    "question": "How can I retrieve personal belongings that were confiscated prior to my return flight?",
+    "answer": "If items fall within the scope of restricted items, as determined by the National Civil Aviation Security Program, and identified during the security checks, they will not be permitted to pass this point, and will be destroyed. It is not possible *to retrieve items that have been destroyed*. To avoid this, we recommend that you review the current security restrictions at  http://web.shgm.gov.tr/tr/yolcular-icin/3889-index (http://web.shgm.gov.tr/tr/yolcular-icin/3889-index) and contact your airline company before arriving at the airport."
+  },
+  {
+    "question": "Am I permitted to carry medication in my hand baggage?",
+    "answer": "Medication may be carried in hand baggage, provided that a prescription indicating the passenger's identity, or a medical report specifying the passenger's requirement for this medication is provided. Additionally, medication must be in its original packaging, and in reasonable quantities. For more information, visit  https://www.ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular-frequently-asked-questions/english (https://www.ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular-frequently-asked-questions/english)."
+  },
+  {
+    "question": "An I permitted to transport human tissue (embryo, organ, etc) in the cabin?",
+    "answer": "Medical products are permitted inside the cabin in line with the Protocol on the Air Transport of Organs and Tissues. Even if you are only transferring through the airport, you must present the approval document obtained from the Ministry of Health at the security checkpoints for the transportation of such products."
+  },
+  {
+    "question": "Am I permitted to carry insulin and hypodermic syringes in my hand baggage?",
+    "answer": "Insulin injectors may be carried in hand baggage, provided that they are listed on a prescription indicating the passenger's identity or accompanied by a medical report specifying the passenger's requirement for this medication. Injectors must be in their original packaging. However, the quantity of medication that is considered sufficient for the duration of a flight may be subject to change based on airport security committee decisions. It is prohibited to carry hypodermic injectors in the cabin, and you should obtain information from your airline about their carriage in the hold."
+  },
+  {
+    "question": "What is my free baggage allowance?",
+    "answer": "Please contact your airline for information about your free baggage allowance."
+  },
+  {
+    "question": "I have left my belongings in the terminal. What should I do?",
+    "answer": "If you leave your belongings in the airport terminal, please complete the lost property form on our website at https://www.istairport.com/en/passenger/terminal-services/lost-and-found (https://www.istairport.com/en/services/discover/lost-and-found-inquiry-form/?locale=en) contact our call center on  444 1 442 (tel:+904441442), contact our call center on  444 1 442 (tel:+904441442).\n\n[YouTube video: (https://www.youtube.com/embed/q5uqFfFDdYE)]"
+  },
+  {
+    "question": "My baggage or lost property has been located. Where can I collect them from?",
+    "answer": "You can collect your lost property from our Lost and Found Property Office, located opposite check-in island R, near entrance gate 7 on the departures floor. The exact location of our office is shown on the Maps (https://www.istairport.com/en/airport/maps/airport-map/) link or on the İstanbul Airport mobile application."
+  },
+  {
+    "question": "Where is the Lost and Found Property Office, and how can I access it?",
+    "answer": "The Lost and Found Property Office is located opposite check-in island R, near entrance gate 7 on the departures floor. The exact location is shown on the Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) link or via the Istanbul Airport mobile application."
+  },
+  {
+    "question": "I was unable to retrieve my baggage, or I forgot to collect my baggage from the baggage claim carousel. What should I do?",
+    "answer": "If your baggage does not appear on the carousel, or has been lost, report this to the Lost and Found Property Office of the relevant ground handling company for your airline, following the signs at the baggage reclaim area. If you are no longer present at the baggage reclaim point, you can contact the airline, providing your personal information such as first name, last name, flight date, destination, flight code information, and, if available, a photograph of your ticket or baggage tag, as well as a full description of your baggage."
+  },
+  {
+    "question": "How long is lost property held at the Lost and Found Property Office?",
+    "answer": "Items found in the domestic check-in area (landside) will be taken to the iGA Lost and Found Property Office and stored for a period of **6 months**. If they remain unclaimed after this period, they will be discarded. Items found in the international passport checkpoint area (airside) will be taken to the iGA Lost and Found Property Office and stored for a period of **3 months**. Items that remain unclaimed after this period, will be returned to the Customs Enforcement Department."
+  },
+  {
+    "question": "Why are food and drink at the Lost and Found Property Office destroyed?",
+    "answer": "Food items found on the airport premises are held for a maximum of ***24 hours*** to avoid deterioration and are subsequently disposed of. If food items are found on another property, they will be removed and disposed of accordingly."
+  },
+  {
+    "question": "How can I retrieve belongings that I left on the aircraft?",
+    "answer": "Belongings left on the aircraft are stored in the Lost and Found Property Offices of the respective airline. Please contact your airline for assistance."
+  },
+  {
+    "question": "My baggage has arrived damaged. What should I do?",
+    "answer": "If your baggage arrives damaged and you are still at the airport, contact the Lost and Found Property Office of your airline and file a report. If you are no longer at the airport, contact the airline company and provide pertinent information such as your first name, last name, flight date, destination, flight code information, and if available, photographs of your flight ticket or baggage tag, as well as a description of your baggage, which will help the investigation."
+  },
+  {
+    "question": "I have lost my official documents, such as my ID card, passport, green card, etc. What should I do?",
+    "answer": "If official documents, such as driving licenses, passports, or identity cards, are not found inside another item, such as a purse, they are forwarded to the Airport Police Department. In this situation, you can submit a claim to the Airport Police by calling  444 1 442 (tel:+904441442), or by visiting the airport in person to inquire about your documents. If your important documents are found in the terminal, they will be taken to the Lost and Found Property Office. In this case, complete the lost property form available on our website at Lost and Found Services (https://www.istairport.com/en/services/discover/lost-and-found-inquiry-form/), contact our call center on  444 1 442 (tel:+904441442), or submit a query on our WhatsApp line on  444 1 442 (tel:+904441442).\n\n[YouTube video: (https://www.youtube.com/embed/-qVATOsBESo)]"
+  },
+  {
+    "question": "Where can I store my baggage?",
+    "answer": "**Landside**: There are two baggage storage areas on the departures floor, with baggage storage lockers, which are subject to the applicable fees.\nThe updated 2024 rates for baggage lockers on the Domestic and International Arrivals Floor are shown below:\n* Small-sized Bag (duty-free): TRY 90 for 24 hours,\n* Medium-sized Baggage (cabin-sized bag): TRY 115 for 24 hours,\n* Large-sized Baggage (Maximum size hold baggage): TRY 240 for 24 hours,\n* XL-sized Baggage (TV, surfboard, bicycle, etc.): TRY 300 for 24 hours.\n* XXL-sized Baggage: TRY 375 for 24 hours.\n\nThe updated 2024 price structure for baggage lockers, located at Gates 1 and 6 on the Departures Floor, is as follows:\n* Small size: TRY 90 for 24 hours,\n* Medium size: TRY 115 for 24 hours,\n* Large size: TRY 240 for 24 hours,\n* XL size: TRY 300 for 24 hours,\n\nYou can access the location of these areas using our airport map (Airport Map (https://www.istairport.com/en/airport/maps/airport-map/)) or by using the Istanbul Airport mobile application."
+  },
+  {
+    "question": "Is there a fee to use the baggage trolleys at the airport?",
+    "answer": "The baggage trolleys operate on a deposit system. Baggage trolleys can be paid for in cash, by debit card, or by contactless payment at the baggage trolley stations; after payment you will receive a receipt displaying a QR code. On returning your baggage trolley, simply scan the QR code on your receipt and your deposit will be returned to you. Each QR code generated corresponds to a specific trolley, so please ensure that you have the correct QR code receipt when returning your trolley."
+  },
+  {
+    "question": "Does the airport offer a porter service?",
+    "answer": "Porters are available at entrances 2, 5, and 7 of the departures floor.\nPorters are also available to assist passengers at the baggage claim area in the arrivals zone."
+  },
+  {
+    "question": "Are there designated check-in counters for families, elderly passengers, or passengers with reduced mobility?",
+    "answer": "All of our check-in counters can accommodate passengers with reduced mobility. The decision to appoint special check-in counters for families, elderly passengers, or passengers with reduced mobility is the responsibility of the airline company. Currently, Turkish Airlines offers this service at our airport.\n\n[YouTube video: (https://www.youtube.com/embed/tGUtp8_GzYw)]"
+  },
+  {
+    "question": "If I check-in online, can I check my bags in without waiting in line?",
+    "answer": "If the airline has an online check-in counter, you can check your bags in there without having to join the general check-in queue."
+  },
+  {
+    "question": "Are there designated check-in counters for families, elderly passengers, or passengers with reduced mobility?",
+    "answer": "All of our check-in counters can accommodate passengers with reduced mobility. The decision to appoint special check-in counters for families, elderly passengers, or passengers with reduced mobility is the responsibility of the airline company. Currently, Turkish Airlines offers this service at our airport.\n\n[YouTube video: (https://www.youtube.com/embed/tGUtp8_GzYw)]"
+  },
+  {
+    "question": "If I check-in online, can I check my bags in without waiting in line?",
+    "answer": "If the airline has an online check-in counter, you can check your bags in there without having to join the general check-in queue."
+  },
+  {
+    "question": "What services are available for passengers with special needs?",
+    "answer": "We offer a wide range of services and facilities to assist guests with special requirements (e.g. pregnant women, disabled or elderly passengers) to navigate the airport procedures. For more information about these services and facilities, please visit iGA Cares (https://www.istairport.com/en/flights/airport-guides/iga-cares-accessibility/).\n\n[YouTube video: (https://www.youtube.com/embed/1-bQzGhRdoE)]"
+  },
+  {
+    "question": "Does the airport have restrooms for passengers with reduced mobility?",
+    "answer": "Accessible restrooms for passengers with reduced mobility are available at each restroom area throughout our airport. Our restrooms feature sensor-activated doors and audible occupied/vacant notifications, and they can be locked from the inside with a button. In addition, five of our accessible restrooms feature commode wheelchairs:\n* Arrivals floor, check-in area, opposite check-in island E,\n* Departures floor, after passport control, opposite Gate A2,\n* Departures floor, after passport control, opposite Gate B1,\n* Departures floor, after passport control, between Gates D2-D4,\n* Departures floor, after passport control, opposite Gate F1.\n\n[YouTube video: (https://www.youtube.com/embed/T3B5ETr0xCQ)]"
+  },
+  {
+    "question": "Is it possible to pass through the security checkpoint with my wheelchair?",
+    "answer": "Wheelchairs will be inspected at the security checkpoint, after which you can proceed through the screening process, either in your wheelchair, or, if you are able to walk, you can proceed through the X-ray screening machine.\n\n[YouTube video: (https://www.youtube.com/embed/3wjqWWBXNLw)]"
+  },
+  {
+    "question": "Do the parking areas offer designated parking spaces for passengers with disabilities?",
+    "answer": "The airport parking area offers a total of 910 disabled parking spaces, conveniently located near the entrance gates on each floor.\nAccessible toilets are also available in the parking area.\n\nOnce you have parked your car in the parking area:\n* you can access Gate 1 from the turquoise parking lot, floor P5,\n* Gates 1 and 3 from the purple parking lot, floor P5,\n* and Gate 7 from the red and blue parking lot, floor P5, using the moving walkway.\n\nIn accordance with the parking fees and application principles of the Public Private Cooperation (PPP) tariff published by the General Directorate of State Airports Authority (DHMI); disabled guests who wish to use our parking facility free of charge for up to a maximum of 15 days, are required to be in the vehicle in person and be able to present the documents proving their disability (disabled identity card issued by the relevant ministry, disability report or disabled registered vehicle license issued in their name).\n\n[YouTube video: (https://www.youtube.com/embed/ODFJtt4qFBw)]"
+  },
+  {
+    "question": "Are disabled passengers entitled to complimentary parking facilities?",
+    "answer": "In accordance with the parking fees and application principles of the Public Private Cooperation (PPP) tariff published by the General Directorate of State Airports Authority (DHMI); disabled guests who wish to use our parking facility free of charge for up to a maximum of 15 days, are required to be in the vehicle in person and be able to present the documents proving their disability (disabled identity card issued by the relevant ministry, disability report or disabled registered vehicle license issued in their name).\n\n[YouTube video: (https://www.youtube.com/embed/CAIwHVe72Aw)]"
+  },
+  {
+    "question": "Does the airport provide an accessible route for visually-impaired passengers?",
+    "answer": "The accessible route with tactile paving, is available at entrances 1, 3, and 7, extending from the side entrances to the help desk.\nSimilarly, the accessible route extends from the international and domestic baggage claim areas to the arrivals area exit and entry points.\nThe accessible route is a sophisticated application featuring tactile paving and available in the domestic departures area of the terminal and was designed to assist visually-impaired passengers to travel independently through the airport.\nThe accessible route conveniently extends towards the check-in counters, the second security checkpoint and the boarding gates through entrance gates 1 or 3. The accessible route features a single-lane tactile surface, extending along a primary route with specialized warning surfaces to indicate boarding gates and restroom areas. The 'Loud Steps' feature in the maps section of the iGA Istanbul Airport mobile app, offers voice guidance to assist you in navigating your route in the airport, and to receive information about your surroundings, by holding your phone in the direction you'd like to go.\n\n[YouTube video: (https://www.youtube.com/embed/H1s8DaEUs_Q)]"
+  },
+  {
+    "question": "Are disabled and pregnant passengers eligible to use a priority pass at security and passport checkpoints in the airport?",
+    "answer": "Priority passes for the security checkpoints are available for disabled and pregnant passengers at entrances 1, 3, and 7, allowed expedited access. In addition, designated routes are provided at the passport control areas for disabled and pregnant passengers.\n\n[YouTube video: (https://www.youtube.com/embed/2LgFWYZS_to)]"
+  },
+  {
+    "question": "How can I receive assistance services at the airport?",
+    "answer": "Assistance services can be booked through the relevant airlines. To request assistance, please visit your airline's website. By informing the airline of your request in advance, the waiting time for the assistance service will be reduced.\nOn arrival at the airport, contact your airline service provider using the assistance call phones located near the entrance. Guests can wait for the staff to arrive on the bench that is located at the entrance.\n\n[YouTube video: (https://www.youtube.com/embed/eiql4U2Eik0)]"
+  },
+  {
+    "question": "Where can I get a Sunflower Lanyard, for passengers with disabilities?",
+    "answer": "You can request a Sunflower Lanyard from our information desks.\n\n[YouTube video: (https://www.youtube.com/embed/09NOL_4RdOs)]"
+  },
+  {
+    "question": "Do I have to submit a medical report to prove my eligibility for the Sunflower Lanyard?",
+    "answer": "There is no need to submit a medical report when applying for the Sunflower Lanyard."
+  },
+  {
+    "question": "Am I entitled to priority assistance at the security checkpoints if I use my Sunflower Lanyard?",
+    "answer": "The Sunflower Lanyard does not grant any priority or privileges during the security procedures. However, it will make our staff aware that you may require additional time, or assistance."
+  },
+  {
+    "question": "Can I use the Sunflower Lanyard at other airports?",
+    "answer": "The Sunflower Lanyard can be used at other airports where this practice is in place. Contact the relevant airport to inquire about the validity of the Sunflower Lanyard.\nOur Information Points:\nDeparture Floor:\n* Opposite terminal entrance gate 2\n* Opposite terminal entrance gate 5\nAfter International Passport Control\n* At the entrance to international Pier A\n* At the entrance to international Pier D\n* At the entrance to international Pier F\n* At the entrance to domestic Pier G\nTransfer and Arrivals Floor:\n* International meeting lounge\n* Domestic meeting lounge\n* Before passport control for international departures"
+  },
+  {
+    "question": "How can I apply for the Very Special Guest Card offered through the Accessible Airport program?",
+    "answer": "In order to ensure that a guest is eligible for this service, they must submit a medical report confirming their disability, together with the application form and a recent photograph. Applications can be submitted as follows:\n**At the Information Desks**: Complete and submit the application form at the Information Desks, together with a photograph and medical report.\n**Website**: The application form can be completed on our website, where you can also upload your photograph and medical report.\n\n[YouTube video: (https://www.youtube.com/embed/3IFZSvSoBJI)]"
+  },
+  {
+    "question": "Where do I collect the Very Special Guest Card offered under the Accessible Airport program?",
+    "answer": "The Very Special Guest Card will be issued after approval of your application and medical report. When your card is ready, you can collect it from the nearest Information Desk by providing your flight details, or you can contact us telephonically on  444 1 442 (tel:+904441442) or by email at  assist@igairport.aero (mailto:assist@igairport.aero).\n\n[YouTube video: (https://www.youtube.com/embed/79sEuaCi79w)]"
+  },
+  {
+    "question": "Do I need to present my medical report every time I use the Very Special Guest Card?",
+    "answer": "Once your application has been approved, it is not necessary to present a medical report every time you use your Very Special Guest card."
+  },
+  {
+    "question": "What services am I entitled to with the Very Special Guest Card?",
+    "answer": "For information, and to access the Very Special Guest Room, contact us using the assistance call phones at the terminal entrance, at the Information Desks, through the call center ( 444 1 442 (tel:+904441442)), or by emailing us on  customercare@igairport.aero (mailto:customercare@igairport.aero). If you wish to use the Very Special Guest room, please present your Very Special Guest card together with your boarding pass to the staff member at the entrance.\nIf you wish to use the Buggy shuttle service, please present your Very Special Guest Card to the staff at the Buggy stops. The Very Special Guest card entitles you and one companion to enjoy complimentary Buggy shuttle service.\n\n[YouTube video: (https://www.youtube.com/embed/6oQnu22Cunw)]"
+  },
+  {
+    "question": "Can I make a reservation for the Very Special Guest Room service?",
+    "answer": "Currently, we do not offer a booking system."
+  },
+  {
+    "question": "What facilities does the Very Special Guest Room offer?",
+    "answer": "The Very Special Guest Room features TVs, screening children's animated movies, a flight information display, comfortable seating areas, and a children's area with toys and seating. A quiet room is also available for guests to use.\n\n[YouTube video: (https://www.youtube.com/embed/NEAMUdbNvM0)]"
+  },
+  {
+    "question": "What is the seating capacity of the Very Special Guest room?",
+    "answer": "The room is large enough to accommodate several people at once. Nevertheless, a calm environment will be maintained in the room and we will ensure that the number of occupants does not exceed the maximum capacity.\n\n[YouTube video: (https://www.youtube.com/embed/pqM8m4pXjSM)]"
+  },
+  {
+    "question": "Where are the Special Passenger Service Points located at the airport?",
+    "answer": "Two Special Passenger Service Points are available in the check-in area at check-in islands B and M on the departures floor."
+  },
+  {
+    "question": "Which passengers are eligible to use the Special Passenger Service Points offered at the airport?",
+    "answer": "Passengers who require a calmer environment, or who need to charge electric wheelchairs, can access the Special Passenger Service Points. There is also a private area for guests who wish to remove a prosthetic limb to place in the hold, as well as flight information screens to facilitate the check-in process."
+  },
+  {
+    "question": "Does iGA Istanbul Airport offer priority services for elderly passengers?",
+    "answer": "At the security and passport areas, passengers over the age of 65 can use the iGA Fast Track entrance **free of charge** without waiting in line. They are also entitled to use the complimentary iGA Buggy vehicles, on certain routes.\nGuests can take advantage of the iGA Premium Services to reserve a staff assistant to accompany them through the airport, by making a reservation through the iGA Meet & Greet section on the igapass.com website, or by contacting our call center. Passengers aged 65+ are eligible for a **35% discount** when using the iGA Meet and Greet Service.\nThe iGA Sleepod is located beyond the international passport control area, and immediately in front of Gate D. Passengers over the age of 65 are eligible for a **35% discount** when booking the iGA Sleepod sleeping cabins."
+  },
+  {
+    "question": "What services are provided for passengers with invisible disabilities, such as dementia or Alzheimer's disease, who may require a quieter waiting area?",
+    "answer": "Passengers with invisible disabilities can make use of our 'Very Special Guest Room'. Passengers can apply for the Very Special Guest Card on the iGA Cares page on the Istanbul Airport website. With this card, passengers can use the Very Special Guest Rooms located at the flight gate areas. The complimentary iGA Buggy vehicle service, operating on specific routes, can also be accessed using this card. On presentation of their 'Very Special Guest Card', both the passenger and their companion will be granted priority access through designated disabled entrances.\nFor passengers who require a calmer atmosphere, Special Passenger Service Points are provided at check-in islands B and M.\nPassengers with invisible conditions such as dementia, autism, and anxiety disorder, and those who need additional support or a special welcome, can collect a complimentary Sunflower Lanyard from our Information Desks."
+  },
+  {
+    "question": "Will I have access to a wheelchair at the airport?",
+    "answer": "Passengers who wish to reserve a wheelchair and an assistant, can make a reservation through their airline, at least 48 hours prior to their departure.\nFamily members of passengers who require a wheelchair at the airport, can find these at the Information Desks near to the passport control area."
+  },
+  {
+    "question": "Does the airport provide adult changing facilities?",
+    "answer": "iGA Istanbul Airport offers adult changing rooms featuring height-adjustable beds. Five adult changing rooms are available at the airport, located just after passport control in the international departures area, in the domestic departures area at gate G3, and at the baggage claim areas for both international and domestic arrivals."
+  },
+  {
+    "question": "I want to travel with my own wheelchair, how do I get to/from the airport?",
+    "answer": "Wheelchair users with limited mobility have the option to use accessible taxis, İETT buses, and HAVAİST accessible midibuses. To book an accessible taxi, passengers can make a reservation by contacting the taxi desk or using the airport taxi contact details that can be found at the reception in the arrivals area. (**Taxi contact number:  0850 780 7734 (tel:08507807734)**)\nPassengers who prefer to use the HAVAİST accessible midibuses to travel to the city center, can find the HAVAİST contact details in the airport terminal, or they can notify the HAVAİST staff situated on the transportation floor of the airport. Passengers traveling from the airport to the city center, must reserve transportation at least one hour in advance; passengers traveling from the city center to the airport, must make a reservation at least six hours in advance. **Email:  info@hava.ist (mailto:info@hava.ist) - Call center:  0850 888 33 34 (tel:08508883334)**"
+  },
+  {
+    "question": "Where can I find information about the iGA Pass membership packages?",
+    "answer": "Information about the iGA Pass Membership Package can be found on  https://igapass.com/ (https://igapass.com)."
+  },
+  {
+    "question": "At which airports is the iGA Pass valid?",
+    "answer": "The iGA Pass is currently only valid at Istanbul Airport."
+  },
+  {
+    "question": "Where are the iGA Pass service and sales points located at Istanbul Airport?",
+    "answer": "Three service and sales points are located on the departures floor. These Passenger Service Points are located at counter D in the domestic area, and counter M in the international area. A third Passenger Service Point is located next to the Information Desk after passport control."
+  },
+  {
+    "question": "Where is the iGA Lounge?",
+    "answer": "The iGA Lounge is located on the international departures floor. The iGA Lounge locations can be accessed on the Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or via our Istanbul Airport mobile application."
+  },
+  {
+    "question": "What services are offered in the iGA Lounge?",
+    "answer": "The iGA Lounge can accommodate 585 guests in an area of 4,400 m2. The Lounge offers complimentary massage services and a selection of delicious dishes at its open buffet. iGA Lounge has shower facilities and rest areas for transfer passengers, a children's playground for entertainment, comfortable business spaces, meeting rooms, and quiet working rooms to accommodate the needs of business travelers."
+  },
+  {
+    "question": "What lounges are available at Istanbul Airport? How can I take advantage of these services?",
+    "answer": "The iGA Lounge is the only lounge at Istanbul Airport. To use the iGA Lounge, passengers are required to purchase the iGA Lounge Service, or an iGA Pass membership. Passengers can use the iGA Lounge Service if they are traveling with one of our partner airlines, are customers of one of our affiliates, or if their airline provides them with iGA Lounge access.\nThe THY Domestic CIP Lounge can be accessed by THY business class passengers and Frequent Flyer cardholders in the domestic area, while the International Turkish Airlines Lounge can be accessed by Star Alliance business class passengers and Frequent Flyer cardholders in the international area of Istanbul Airport. The SkyTeam Lounge, serving SkyTeam member airlines, is available to guests in the international area.\nLounge locations can be accessed on the airport map (Airport Map (https://www.istairport.com/en/airport/maps/airport-map/)) or via our Istanbul Airport mobile application."
+  },
+  {
+    "question": "Where are the Buggy stops located?",
+    "answer": "The Buggy shuttle service operates in the international and domestic departure areas, using vehicles that can carry 3-5 people, and provides a convenient means for passengers to reach the aircraft boarding gate.\nThe Buggy service offers four departure points, with three in the international area, and one in the domestic area.\n**International area**: North Stop - located at the bottom of the stairs, near Gate D in the international departures area.\nWest stop: opposite Gate C1 on the International Departures floor.\nEast stop: opposite Gate E1 on the International Departures floor.\nIn the domestic area:\nDomestic area stop - directly opposite the stairs, on the lower level, in the domestic departures area.\nTo make use of the Buggy shuttle service, please go to the Buggy stops, which can be found on the map on the Istanbul Airport mobile application.\nThe available services are as follows\n* International area, western route and International area, eastern route, towards international boarding gates A, B, C, E, and F,\n* International area, northern route, towards international boarding gate D,\n* Domestic area Buggy stop towards the domestic boarding gate,\n\nChoose the relevant Buggy stop based on which boarding gate you need to go to."
+  },
+  {
+    "question": "How do I purchase a ticket for the Buggy service?",
+    "answer": "The iGA Buggy service can be purchased from\n* www.igapass.com (https://www.igapass.com/en),\n* the Istanbul Airport mobile application,\n* iGA Buggy Stations, and\n* iGA Pass Service and Sales Points at the airport."
+  },
+  {
+    "question": "Where can I find information about the iGA Meet and Greet service?",
+    "answer": "The iGA Meet and Greet service, available to arriving, departing, and transfer passengers, can be accessed in both the international and domestic areas.\nFor departing passengers;\n* Airport assistant\n* Porter service\n* Priority check-in\n* iGA Fast Track service\n* Escort to aircraft door\n* Use of iGA Lounge\n* Buggy reserved for the passenger\n\nFor arriving passengers:\n* Airport assistant\n* Porter service\n* Buggy reserved for the passenger\n* iGA Fast Track service\n* Escort to the transfer vehicle\n\nFor transfer passengers:\n* Met by a personal assistant at the arrivals gate (on a designated Buggy)\n* Porter service\n* Use of iGA Fast Track at the passport control point\n* Access to the iGA Lounge\n* Escort to the departure flight gate (on a designated Buggy)\n* Service and package fees can be accessed through the https://igapass.com website or the İstanbul Airport mobile application."
+  },
+  {
+    "question": "How can I book the iGA Meet and Greet service?",
+    "answer": "The iGA Meet and Greet Service operates on a reservation system. If an assistant is available at the requested time and date, a confirmation of your reservation will be forwarded to you.\nReservations for the iGA Meet and Greet service can be made on:\n* www.igapass.com (https://www.igapass.com/en?locale=en),\n* the Istanbul Airport mobile application,\n* at  reservation@igapass.com (mailto:reservation@igapass.com) and\n* at the iGA Pass Service and Sales Point located at the airport.\n\nReservations for the iGA Meet and Greet service should be made at least 24 hours in advance. Reservations made less than 24 hours prior to departure or arrival, will not be processed."
+  },
+  {
+    "question": "How can I access the iGA Fast Track service?",
+    "answer": "Passengers require an iGA Pass membership package to be able to use the Fast Track service. For further information, view our membership packages here https://www.igapass.com (https://www.igapass.com/en).\nIn addition, if you are traveling with one of our partner airlines, or you are a customer of one of our affiliates, or if your airline offers access to this service, you will be eligible to use our iGA Fast Track Service."
+  },
+  {
+    "question": "Where are iGA Fast Track points located?",
+    "answer": "The iGA Fast Track service is available at\n* Departure passengers: at the terminal entrance doors, entrance 1 for domestic flights, entrances 3 and 7 for international flights and at the security checkpoints.\n* At the passport checkpoints for international arrivals, international departures and transfer passengers."
+  },
+  {
+    "question": "Am I eligible to use the valet and parking facilities with an iGA Pass?",
+    "answer": "Valet and parking services are offered with iGA Pass membership packages. For further information, view our membership packages here  https://www.igapass.com/en (https://www.igapass.com/en)."
+  },
+  {
+    "question": "Am I permitted to fly with my pet?",
+    "answer": "In order for your pet to travel with you, you will need to take your pet through the relevant security checkpoints. More detailed information about this can be found at  https://www.ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular/bireysel/yolcu-beraberinde-getirilen-hayvanlar (https://www.ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular/bireysel/yolcu-beraberinde-getirilen-hayvanlar) However, it is recommended that you contact your airline for the current requirements regarding pet transportation"
+  },
+  {
+    "question": "How long before my flight should I arrive at the airport?",
+    "answer": "Passengers are advised to check-in at least 3 hours prior to departure for international flights, and at least 2 hours prior to departure for domestic flights."
+  },
+  {
+    "question": "Where can I find flight departure and arrival information? ",
+    "answer": "Current departures information can be accessed on the Departing Passenger Services (https://www.istairport.com/en/flights/airport-guides/departing-passenger-guide/) page, while arrivals information can be accessed on the Arrival Passenger Guide (https://www.istairport.com/en/flights/airport-guides/arrival-passenger-guide/) page. Alternatively, you can follow current flight information on the **Istanbul Airport** mobile application. Passengers can receive real-time updates regarding their flights, through notifications on their mobile device, by locating their flight on our mobile app, and selecting the 'follow my flight' option. Passengers can also get current flight information by contacting our call center on 444 1 442 (tel:+904441442) or by using our WhatsApp line on  +90 549 563 34 34 (http://wa.me/905495633434)."
+  },
+  {
+    "question": "Where can I find the latest information on the status of my flight, for delays and/or cancellations?",
+    "answer": "Current departures information can be accessed on the Departing Passenger Services (https://www.istairport.com/en/flights/airport-guides/departing-passenger-guide/) page, while arrivals information can be accessed on the Arrival Passenger Guide (https://www.istairport.com/en/flights/airport-guides/arrival-passenger-guide/) page. Alternatively, you can follow current flight information on the **Istanbul Airport** mobile application. Passengers can receive real-time updates regarding their flights, through notifications on their mobile device, by locating their flight on our mobile app, and selecting the 'follow my flight' option. Passengers can also get current flight information by contacting our call center on 444 1 442 (tel:+904441442) or by using our WhatsApp line on  +90 549 563 34 34 (http://wa.me/905495633434)."
+  },
+  {
+    "question": "Which vaccinations do I need for my destination country, and where can I obtain them?",
+    "answer": "The latest health requirements for your destination country, including any vaccine requirements, can be found here:  https://www.hssgm.gov.tr/SikcaSorulanSorular (https://www.hssgm.gov.tr/SikcaSorulanSorular)."
+  },
+  {
+    "question": "My flight has been delayed or cancelled, what are my rights?",
+    "answer": "If your flight has been delayed or cancelled, the latest information regarding your passenger rights can be found on the General Directorate of Civil Aviation's website:  http://web.shgm.gov.tr/en/mevzuat/2155-index (http://web.shgm.gov.tr/en/mevzuat/2155-index). You can file an appeal regarding your passenger rights with your airline."
+  },
+  {
+    "question": "What stores are available at the airport?",
+    "answer": "Information about stores on the landside in the domestic area of the airport can be found in the Shopping (https://www.istairport.com/en/services/shopping/) section of our website, as well as information about our 55,000 m2 Unifree Duty Free (https://www.istairport.com/en/services/shopping/stores/unifree-duty-free-close-to-a-b-pier-1/) zone, located in the international area. Store locations are available on our airport map, available on our website or on the iGA Istanbul Airport mobile application."
+  },
+  {
+    "question": "What restaurants and cafés are available at the airport?",
+    "answer": "Information about restaurants and cafés at our airport can be found in the Food & Drink (https://www.istairport.com/en/services/food-beverage/) section of our website. Restaurant locations are available on our airport map, which can be accessed through our website or in the iGA Istanbul Airport mobile application."
+  },
+  {
+    "question": "The product I purchased in the Duty Free area appears to be defective. What should I do?",
+    "answer": "For more information on this, please visit  https://www.unifree.com/en/duty-free-shopping/#/duty-free-shopping-procedure (https://www.unifree.com/en/duty-free-shopping/#/duty-free-shopping-procedure.)."
+  },
+  {
+    "question": "What is the Duty Free allowance for international flights?",
+    "answer": "The Duty Free allowance for international passengers arriving at iGA Istanbul Airport can be found here:  https://www.unifree.com/en/duty-free-shopping/#/duty-free-shopping-procedure (https://www.unifree.com/en/duty-free-shopping/#/duty-free-shopping-procedure.)."
+  },
+  {
+    "question": "Do I need to claim my bags while in transit for my connecting flight?",
+    "answer": "Information about the automatic transfer of baggage can be obtained from your airline."
+  },
+  {
+    "question": "If my connecting flight is cancelled, or I miss my flight, what should I do?",
+    "answer": "If your connecting flight is cancelled, or you miss your flight for any reason, please contact your airline's transfer desk for more information. To locate the transfer desks, please refer to our Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or create a route from your current location using the Istanbul Airport mobile application."
+  },
+  {
+    "question": "Where can I rest at the airport while waiting for my connecting flight?",
+    "answer": "Complimentary Napzones are available throughout the terminal. Additionally, fee-based sleeping cabins are located in the international departure area for your convenience. The YOTEL at iGA Istanbul Airport can be found inside the terminal, offering modern accommodation and smart technology in 174 rooms on the airside, and 277 rooms on the landside. To book a room at YOTEL, please visit:  https://www.yotel.com/ (https://www.yotel.com/) or email  istanbul.reservation@yotel.com (mailto:istanbul.reservation@yotel.com)."
+  },
+  {
+    "question": "I have a connecting flight through Istanbul Airport; do I need a visa?",
+    "answer": "If you arrive from an international destination and have a connecting flight from Istanbul Airport to another international destination, proceed through the security checkpoint before accessing the departure floor. However, if you need to claim your bags or gain entry into the country for any reason, you are required to be in possession of a Turkish visa, as you will need to pass through passport control."
+  },
+  {
+    "question": "Can I get a visa at Istanbul Airport?",
+    "answer": "Two visa offices are available at iGA Istanbul Airport for passengers requiring a visa, which are located before passport control. Visa requirements will differ depending on the country you have come from. Find information or submit a visa application by visiting:  https://www.evisa.gov.tr/ (https://www.evisa.gov.tr/)."
+  },
+  {
+    "question": "Where can I declare products that I purchased overseas?",
+    "answer": "Passengers are required to complete the registration forms for items that they are declaring when entering the country from abroad. These forms can be found on:  https://www.turkiye.gov.tr/ (https://www.turkiye.gov.tr/)"
+  },
+  {
+    "question": "How many cell phones, computers, and tablets am I allowed to bring into the country?",
+    "answer": "For information about which electronic devices can be brought into Türkiye from abroad, visit  https://www.ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular/bireysel/yolcu-muafiyetleri (https://www.ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular/bireysel/yolcu-muafiyetleri)"
+  },
+  {
+    "question": "Is there a hotel in the airport?",
+    "answer": "YOTEL is located inside the terminal and offers modern designs and smart technologies, with 174 rooms on the airside and 277 rooms on the landside. Reservations can be made on  https://www.yotel.com/ (https://www.yotel.com/) or by contacting us via email at  istanbul.reservation@yotel.com (mailto:istanbul.reservation@yotel.com)."
+  },
+  {
+    "question": "How do I reserve a room at the hotel?",
+    "answer": "Reservations can be made from the terminal by visiting  https://www.yotel.com/ (https://www.yotel.com/) or by contacting us via email at  istanbul.reservation@yotel.com (mailto:istanbul.reservation@yotel.com)."
+  },
+  {
+    "question": "Are there any children's play areas at the airport?",
+    "answer": "Younger passengers can enjoy five children's playgrounds, located on the departures floor, at each pier. Find the locations of these playgrounds on the Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or on the iGA Istanbul Airport mobile application."
+  },
+  {
+    "question": "Does iGA Istanbul Airport have designated rooms where I can feed my baby?",
+    "answer": "There are 13 infant care rooms, where you can feed or change your baby, with two located at each departure flight gate pier, one at the check-in area on the departures floor, one in the arrivals area, and one in the transfer area. The location of these rooms can be found on our airport map Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or on the Istanbul Airport mobile application.\n\n[YouTube video: (https://www.youtube.com/embed/L8P21ljt_TI)]"
+  },
+  {
+    "question": "Does the airport have baby changing facilities?",
+    "answer": "Family rooms are available within each restroom area, with baby changing facilities. In addition, our airport offers 13 Infant Care Rooms where you can comfortably feed your baby.\n\n[YouTube video: (https://www.youtube.com/embed/SPYe84MjkS4)]"
+  },
+  {
+    "question": "Does the airport offer complimentary Wi-Fi?",
+    "answer": "iGA Istanbul Airport offers guests one hour of complimentary Wi-Fi service. This service can be accessed via SMS or on presentation of your passport number.\nAccess via SMS:\n* Click on mobile access.\n* Select the flag corresponding to your country code and enter your telephone number without the area code. Accept the agreement and click on 'Enter'.\n* Enter the SMS code that is sent to your cell phone, and then click on Continue.\n\nAccess with Passport Number:\n* Use the kiosk to verify your passport details, and take note of the code generated that you will use as your password.\n* Connect to the airport Wi-Fi on your phone and select 'Enter with Passport' on the displayed page.\n* Enter your passport number and the code received from the kiosk. Accept the agreement and select 'Enter'.\n\nFind the Wi-Fi kiosks by accessing our website or using the map feature on the iGA Istanbul Airport mobile application.\nIf you encounter any issues using the Wi-Fi service, support is available on\n 444 01 45 (tel:+904440145).\n\n[YouTube video: (https://www.youtube.com/embed/C9_yj0SQg4Q)]"
+  },
+  {
+    "question": "Why is an SMS required to access the complimentary Wi-Fi service?",
+    "answer": "Identity verification to access a Wi-Fi connection is a requirement of the Laws of the Republic of Türkiye. If you do not have an active roaming service, you can access an internet connection using your passport details at the Wi-Fi kiosks located in the airport terminal.\n* Use the kiosk to verify your passport details, and take note of the code generated that you will use as your password.\n* Connect to the airport Wi-Fi on your phone and select 'Enter with Passport' on the displayed page.\n* Enter your passport number and the code received from the kiosk. Accept the agreement and select 'Enter'."
+  },
+  {
+    "question": "How do I use the Wi-Fi service, if my roaming service is inactive?",
+    "answer": "If you do not have an active roaming service, you can access an internet connection using your passport details at the Wi-Fi kiosks located in the airport terminal.\n* Use the kiosk to verify your passport details, and take note of the code generated that you will use as your password.\n* Connect to the airport Wi-Fi on your phone and select 'Enter with Passport' on the displayed page.\n* Enter your passport number and the code received from the kiosk. Accept the agreement and select 'Enter'."
+  },
+  {
+    "question": "Are there any smoking areas at the airport?",
+    "answer": "iGA Istanbul Airport has 13 passenger smoking areas, with 10 on the international airside area, and 3 at the domestic airside area. You can access the location information of these areas on our Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or on our Istanbul Airport mobile application."
+  },
+  {
+    "question": "Are charging points available at the airport?",
+    "answer": "Electric sockets and USB charging points are available in the seating areas in the terminal."
+  },
+  {
+    "question": "Does the airport have washrooms and prayer rooms?",
+    "answer": "iGA Istanbul Airport has 44 prayer rooms, with 2 for women, 22 for men, and 1 prayer island for other religions. These are located at Pier F on the departures floor. You can access the location of these areas using our airport map (Airport Map (https://www.istairport.com/en/airport/maps/airport-map/)) or by using the Istanbul Airport mobile application"
+  },
+  {
+    "question": "Does the airport have drinking water dispensers?",
+    "answer": "Water dispensers, providing complimentary drinking water, are available at two separate points after passport control on the departures floor. Passengers are welcome to make use of the water dispensers at these locations. You can access the location information of these areas on our Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or on our İstanbul Airport mobile application."
+  },
+  {
+    "question": "Which Tourist Offices and Transfer Services are available at iGA Istanbul Airport?",
+    "answer": "A comprehensive list of Tourist Services and Transfer Companies is available at the arrivals meeting lounge on the arrivals floor. Please visit the link for more information."
+  },
+  {
+    "question": "Is there a pharmacy at the airport?",
+    "answer": "iGA Istanbul Airport has three pharmacies, with two located next to the check-in area on the departures floor (landside) and one on the arrivals floor. In line with customs legislation, there are no pharmacies after passport control (airside) or in the transfer area. If any guest requires a pharmacy service, contact the information points for assistance."
+  },
+  {
+    "question": "Are there any banks and/or ATMs at the airport?",
+    "answer": "Banks and ATMs are widely available at our airport. Detailed information about banks and ATMs at the airport can be found in the Banks & ATMs (https://www.istairport.com/en/services/discover/general-facilities/banks-atms/) section of our website, or you can find a bank/ATM location using the maps feature on the Istanbul Airport mobile application."
+  },
+  {
+    "question": "Does Istanbul Airport offer a baggage wrapping service?",
+    "answer": "The baggage wrapping service is available at entrance gates 3 and 5 on the departures floor. Baggage wrap fees are TRY 75, with parcel prices ranging from TRY 20 to TRY 35, based on size. Baggage wrap with parcel packaging costs TRY 85, TRY 90, or TRY 95, and packing with bubble wrap is charged at TRY 30 per meter."
+  },
+  {
+    "question": "Where can I purchase the departure fee stamp at the airport?",
+    "answer": "The departure fee can be paid in cash or by credit card at the machines located in front of the departure area passport checkpoint. Payment can also be made at any bank, and passengers will be allowed to proceed through passport control on presentation of their departure stamp receipt. For more information, visit  https://www.gib.gov.traddress/ (https://www.gib.gov.traddress/)."
+  },
+  {
+    "question": "Are there any medical facilities at the airport?",
+    "answer": "The Medicana Clinic is open 24-hours a day at the airport.\n\n[YouTube video: (https://www.youtube.com/embed/DEL0xJI6DrI)]"
+  },
+  {
+    "question": "Does Istanbul Airport offer a cargo service?",
+    "answer": "PTT, UPS Cargo, and Jetiz Cargo provide cargo services and are located on the departures floor. You can access the location information of these areas on our Airport Map (https://www.istairport.com/en/airport/maps/airport-map/) or on our İstanbul Airport mobile application."
+  },
+  {
+    "question": "How can I submit a job application?",
+    "answer": "To view available positions and submit an application, please visit:  https://www.igairport.aero/en/career/career-opportunities/ (https://www.igairport.com/en/human-resources/career-opportunities)."
+  },
+  {
+    "question": "What is the airport departure fee levied on passengers?",
+    "answer": "This is the fee imposed on airlines for the services and facilities provided to departing passengers at the airports/terminals operated by Airport/Terminal Operators, as part of PPC Projects contracted out by the SAA Directorate General."
+  },
+  {
+    "question": "How can I advertise on the terminal billboards?",
+    "answer": "For more information, or to submit a request regarding advertisement space, sponsorships, brand collaborations, promotional stand rentals, and event organization at Istanbul Airport, please email  advertising@igairport.com (mailto:advertising@igairport.com) or call  0212 601 41 00 (tel:02126014100)."
+  },
+  {
+    "question": "Which languages does the Istanbul Airport mobile app support?",
+    "answer": "The Istanbul Airport application supports both the Turkish and English languages. If the user's language is supported, the mobile app will open in that language. This means that if the language settings on your mobile device are set to Turkish, the Turkish version of the app will open, if the language settings are set to English, the mobile app will open in English."
+  },
+  {
+    "question": "What do I do if I require medication from a pharmacy, after I have passed through passport control?",
+    "answer": "Passengers requiring medication after passing through passport control, should notify the nearest Information Desk, who will assist in obtaining the required medication from a landside pharmacy. Free delivery is offered to passengers over the age of 65."
+  }
+]
