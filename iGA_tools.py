@@ -1,4 +1,4 @@
-from typing import Optional
+from typing import Optional, Union
 import iGA_requests
 from langchain_ollama import ChatOllama
 import iGA_globals
@@ -9,8 +9,8 @@ from typing import Literal
 import re
 
 def flight_api(search_term: str = "changeFlight", 
-               start_date: datetime.datetime = datetime.datetime.now(), 
-               end_date: datetime.datetime = datetime.datetime.now() + datetime.timedelta(days=30),
+               start_date: Union[datetime.datetime, str] = datetime.datetime.now(), 
+               end_date: Union[datetime.datetime, str] = datetime.datetime.now() + datetime.timedelta(days=30),
                isInternational: Literal[True, False] = False,
                isDeparture: Literal[True, False] = False
                ) -> str:
@@ -20,55 +20,55 @@ def flight_api(search_term: str = "changeFlight",
         search_term (str : optional): Keyword to search flights (e.g., flight number, airport code).
         start_date (datetime : optional): Start date and time for the search.
         end_date (datetime : optional): End date and time for the search.
-        isInternational (bool : optional): true for international flights, false for domestic.
-        isDeparture (bool : optional): true for departure flights, false for arrival.
+        isInternational (bool : optional): 'true' for international flights, 'false' for domestic(Inside Turkey).
+        isDeparture (bool : optional): 'true' for Istanbul departure flights, 'false' for arrival.
 
     Returns:
         str: Flight information in English.
     """
-    start_date_str = start_date.strftime("%Y-%m-%d+%H%%3A%M")
-    end_date_str = end_date.strftime("%Y-%m-%d")
-    isInternationalStr = "1" if isInternational else "0"
-    nature = "1" if isDeparture else "0"
+    # Convert start_date and end_date to formatted strings if they are datetime objects
+    if isinstance(start_date, datetime.datetime):
+        start_date_str = start_date.strftime("%Y-%m-%d+%H%%3A%M")
+    else:
+        start_date_str = start_date
+    if isinstance(end_date, datetime.datetime):
+        end_date_str = end_date.strftime("%Y-%m-%d")
+    else:
+        end_date_str = end_date
+
     search_term = search_term.upper()
     
-    print("DEBUG - Searching for flights with search term: " + search_term + " between " + start_date_str + " and " + end_date_str)
+    print("DEBUG - Searching for flights for:", search_term)
     
-    booleanAgent = BooleanAgent()
-
-    print("DEBUG - Trying domestic arrival flights")
-    flightData = iGA_requests.get_flight_data(search_term, start_date_str, end_date_str)
-    verification_prompt = "Return true if there are any flights listed in here: " + str(flightData) + "\". Otherwise, return false."
+    # If search_term is a specific flight (e.g., 'TK123'), search all categories.
+    if re.match(r"^[A-Z]{2}\d+$", search_term):
+        categories = [
+            {"isInternational": "0", "nature": "0"},  # domestic arrival
+            {"isInternational": "1", "nature": "0"},  # international arrival
+            {"isInternational": "0", "nature": "1"},  # domestic departure
+            {"isInternational": "1", "nature": "1"}   # international departure
+        ]
+        all_flights = []
+        for cat in categories:
+            print("DEBUG - Checking category: isInternational:", cat["isInternational"], "nature:", cat["nature"])
+            flightData = iGA_requests.get_flight_data(search_term, start_date_str, end_date_str, cat["isInternational"], cat["nature"])
+            print("DEBUG - FlightData for this category:", flightData)
+            flights = flightData.get("result", {}).get("data", {}).get("flights", [])
+            if flights:
+                all_flights.extend(flights)
+        response = json.dumps({"flights": all_flights})
+    else:
+        # Otherwise, list flights matching the search term using provided parameters.
+        flightData = iGA_requests.get_flight_data(
+            search_term,
+            start_date_str,
+            end_date_str,
+            "1" if isInternational else "0",
+            "1" if isDeparture else "0"
+        )
+        response = json.dumps(flightData.get("result", {}).get("data", {}).get("flights", []))
     
-    if booleanAgent.run(verification_prompt) == "False":
-        print("DEBUG - No flights found, trying international arrival flights")
-        isInternationalStr = "1"
-        flightData = iGA_requests.get_flight_data(search_term, start_date_str, end_date_str, isInternationalStr)
-        
-        verification_prompt_international = "Return true if there are any flights listed in here: " + str(flightData) + "\". Otherwise, return false."
-        if booleanAgent.run(verification_prompt_international) == "False":
-            print("DEBUG - No international flights found, trying domestic departure flights")
-            isInternationalStr = "0"
-            nature = "1"
-            flightData = iGA_requests.get_flight_data(search_term, start_date_str, end_date_str, isInternationalStr, nature)
-
-            verification_prompt_nature = "Return true if there are any flights listed in here: " + str(flightData) + "\". Otherwise, return false."
-            if booleanAgent.run(verification_prompt_nature) == "False":
-                print("DEBUG - No nature flights found, trying international departure flights")
-                isInternationalStr = "1"
-                nature = "1"
-                flightData = iGA_requests.get_flight_data(search_term, start_date_str, end_date_str, isInternationalStr, nature)
-
-    # announce_message = "Translate the following JSON flight data into a clear, plain-text description. Include all flight information accurately without any JSON formatting, so that it is easily understandable by another LLM:"
-    # flight_data_json = [announce_message + json.dumps(flightData)]
-    # response = "Get Flight Information Tool's Return string: \"" + iGA_globals.chatState.model.invoke(flight_data_json).content + "\""
-    
-    # if iGA_globals.chatState.modelName.lower().startswith("deepseek"):
-    #     response = re.sub(r"<think>.*?</think>", "", response, flags=re.DOTALL)
-    
-    response = json.dumps(flightData)
-
-    print("DEBUG" + response)
+    print("DEBUG - Result:", response)
     return response
 
 # # def listFlights():
