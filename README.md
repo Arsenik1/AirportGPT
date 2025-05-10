@@ -2,6 +2,10 @@
 
 AirportGPT is an AI-powered virtual assistant for airport-related information and services in Istanbul Airport. It uses FastAPI for the backend with LangChain for AI capabilities and Next.js for the frontend.
 
+## Demo
+
+![AirportGPT Demo](AirportGPT.gif)
+
 ## Project Structure
 
 ```
