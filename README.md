@@ -35,7 +35,7 @@ AirportGPT/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/AirportGPT.git
+git clone https://github.com/Arsenik1/AirportGPT.git
 cd AirportGPT
 ```
 
@@ -85,4 +85,4 @@ Create a `.env` file in the appropriate directories if needed for API keys or ot
 
 ## License
 
-[Your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
