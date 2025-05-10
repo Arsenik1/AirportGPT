@@ -29,7 +29,7 @@ AirportGPT/
 - FastAPI
 - LangChain
 - uvicorn
-- [Ollama](https://ollama.com/) - Running locally with the Qwen2.5 model
+- [Ollama](https://ollama.com/) - Running locally with the Qwen2.5 7B model
 
 ### Frontend
 - Node.js 18+
@@ -46,11 +46,13 @@ cd AirportGPT
 
 ### Ollama Setup
 1. Install [Ollama](https://ollama.com/) for your operating system
-2. Pull the Qwen2.5 model:
+2. Pull the Qwen2.5 7B model:
 ```bash
 ollama pull qwen2.5:latest
 ```
 3. Ensure Ollama is running in the background before starting the backend server
+
+> **Important:** The agent is specifically optimized for the Qwen2.5 7B model. Other models (including different parameter counts of Qwen2.5) may cause the agent to fail or perform unpredictably. The 7B model provides an optimal balance between performance and resource efficiency, allowing it to run on a single RTX 4060 GPU or equivalent.
 
 ### Backend Setup
 ```bash
@@ -85,6 +87,28 @@ The frontend will be accessible at http://localhost:3000
 ## API Documentation
 
 Once the backend server is running, you can access the API documentation at http://localhost:8002/docs
+
+## Project Architecture & Privacy Considerations
+
+AirportGPT is designed with privacy and data security as core principles, which is particularly important for airport operations. The application uses a local LLM (Large Language Model) deployment through Ollama instead of cloud-based alternatives for several important reasons:
+
+### On-premises Data Processing
+- All user queries and sensitive airport information remain within the local infrastructure
+- No data is sent to external cloud providers, ensuring complete data sovereignty
+- Complies with strict privacy requirements for airport operations
+
+### Resource Efficiency
+- The Qwen2.5 7B model is specifically selected to balance performance and hardware requirements
+- Can run effectively on consumer-grade hardware (single RTX 4060 GPU)
+- Lower latency compared to API calls to remote services
+
+### Customization
+- The local model can be fine-tuned for airport-specific terminology and use cases
+- Custom tools have been implemented to handle flight information and airport services queries
+
+### Offline Capability
+- The system can function without an internet connection, ensuring reliability during network issues
+- Critical airport information remains accessible even during connectivity problems
 
 ## Environment Variables
 
