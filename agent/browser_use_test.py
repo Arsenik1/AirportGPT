@@ -32,7 +32,7 @@ async def run_search_ollama() -> AgentHistoryList:
     model = ChatOllama(model="qwen2.5:latest", num_ctx=18500, temperature=0.85)
     
     agent = Agent(
-        task="Go to 'https://www.istairport.com/en/flights/flight-info/arriving-flights/?locale=en' and tell me the status of the international flight MH4350",
+        task="Go to 'https://www.istairport.com/en/flights/flight-info/arriving-flights/?locale=en' and tell me the status of international departure flight flight TK1853",
         # task="Do a duckduckgo search about how I can use local llm with browser-use, open the first non-ad link and summarize the content.",
         browser_context=context,
         llm=model,

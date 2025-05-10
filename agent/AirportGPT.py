@@ -1,69 +1,26 @@
 import asyncio
 import iGA_tools
-import iGA_globals
-from iGA_globals import ChatState, chatState
+from iGA_globals import ChatState
+from iGA_globals import chatState
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
-from langchain_core.tools import StructuredTool
-from pydantic import BaseModel, Field
-import datetime
 from typing import Literal
 import json
 
-class FlightSearchInput(BaseModel):
-    search_term: str = Field(
-        description="Required: Enter any search term single keyword like city name (e.g., 'London'), flight number (e.g., 'TK1234'), or airport code (e.g., 'IST')")
-    isInternational: bool = Field(
-        default=False,
-        description="Optional: Set true for international flights, 'false' for domestic flights")
-    isDeparture: bool = Field(
-        default=False,
-        description="Optional: Set true to search departures, 'false' to search arrivals")
-
-
 async def chatController():
-    tools = [
-        StructuredTool(
-            name="Get Flight Information",
-            description="""Searches for flights at Istanbul Airport based on your criteria.
-            
-            Examples:
-            1. For international flights from Istanbul to Berlin (This means the user is looking for flights departing from Istanbul to Berlin, internationally):
-            {
-              "action": "Get Flight Information",
-              "action_input": {
-                "search_term": "berlin",
-                "isInternational": true,
-                "isDeparture": 'true'
-              }
-            }
-            
-            2. For domestic arrivals from Ankara to Istanbul (This means the user is looking for flights arriving at Istanbul from Ankara, domestically):
-            {
-              "action": "Get Flight Information",
-              "action_input": {
-                "search_term": "ankara",
-                "isInternational": 'false',
-                "isDeparture": 'false'
-              }
-            }""",
-            func=iGA_tools.flight_api,
-            args_schema=FlightSearchInput
-        )
-    ]
-
+    
     chatState = ChatState(
-        # modelName="MFDoom/deepseek-r1-tool-calling:7b",
-        modelName="qwen2.5:latest",
-        num_ctx=18000,
-        temperature=0.8,
-        num_predict=2048,
+        modelName="llama3.1:latest",
+        num_ctx=18000, # Context length
+        temperature=0.3, # Creativity
+        num_predict=4096, # Maximum length of the output
         systemMessage=None,
-        tools=tools
+        tools=iGA_tools.FLIGHT_TOOLS
     )
 
     print("Starting chat session. Type '/bye' to end.\n")
     try:
         while True:
+            print("DEBUG - Model Seed:", chatState.seed)
             user_input = input("You: ").strip()
             if user_input.lower() == "/bye":
                 # Save chat history to file

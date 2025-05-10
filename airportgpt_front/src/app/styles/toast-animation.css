@@ -1,0 +1,38 @@
+@keyframes slideDownFromTop {
+  0% {
+    transform: translateY(-200%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.animate-slide-down {
+  animation: slideDownFromTop 0.5s ease-out forwards !important;
+}
+
+/* Add swipe gesture support */
+[data-swipe="move"] {
+  animation: none !important;
+}
+
+@keyframes swipeOut {
+  from {
+    transform: translateX(var(--radix-toast-swipe-move-x));
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+[data-swipe="cancel"] {
+  transform: translateX(0);
+  transition: transform 200ms ease-out;
+}
+
+[data-swipe="end"] {
+  animation: swipeOut 0.5s ease-out forwards;
+}

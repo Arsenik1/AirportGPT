@@ -1,0 +1,14 @@
+.chatbox-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+.chatbox-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.chatbox-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 1) transparent;
+  border-radius: 4px;
+}
+.chatbox-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.81) transparent;
+}
