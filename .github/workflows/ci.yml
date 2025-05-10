@@ -1,0 +1,66 @@
+name: Next.js Frontend CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build-frontend:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]  # Next.js officially supports Node.js 18.x
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+        cache-dependency-path: 'airportgpt_front/package-lock.json'
+    
+    - name: Install Dependencies
+      run: |
+        cd airportgpt_front
+        npm ci
+    
+    - name: Build Next.js App
+      run: |
+        cd airportgpt_front
+        npm run build
+    
+    - name: Lint
+      run: |
+        cd airportgpt_front
+        npm run lint
+
+  validate-backend:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        python-version: [3.9]  # Using Python 3.9 as specified in requirements
+        
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+        
+    - name: Install dependencies
+      run: |
+        cd agent
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Validate Python syntax
+      run: |
+        cd agent
+        python -m py_compile AgentBackend.py iGA_globals.py iGA_tools.py
