@@ -29,6 +29,7 @@ AirportGPT/
 - FastAPI
 - LangChain
 - uvicorn
+- [Ollama](https://ollama.com/) - Running locally with the Qwen2.5 model
 
 ### Frontend
 - Node.js 18+
@@ -42,6 +43,14 @@ AirportGPT/
 git clone https://github.com/Arsenik1/AirportGPT.git
 cd AirportGPT
 ```
+
+### Ollama Setup
+1. Install [Ollama](https://ollama.com/) for your operating system
+2. Pull the Qwen2.5 model:
+```bash
+ollama pull qwen2.5:latest
+```
+3. Ensure Ollama is running in the background before starting the backend server
 
 ### Backend Setup
 ```bash
@@ -58,6 +67,8 @@ npm install
 ## Running the Application
 
 ### Start the Backend Server
+1. Ensure Ollama is running with the qwen2.5 model loaded
+2. Run the backend server:
 ```bash
 cd agent
 python AgentBackend.py
