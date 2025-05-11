@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import { Copy, Check } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -24,6 +25,26 @@ interface ChatBoxProps {
 export default function ChatBox({ messages, messagesEndRef }: ChatBoxProps) {
   // New state for copy button
   const [copiedMsgId, setCopiedMsgId] = useState<string | null>(null);
+
+  // Unified copy handler with fallback for environments without navigator.clipboard
+  const handleCopy = async (text: string, id: string) => {
+    try {
+      if (typeof navigator !== 'undefined' && navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
+        await navigator.clipboard.writeText(text);
+      } else {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+      }
+      setCopiedMsgId(id);
+      setTimeout(() => setCopiedMsgId(null), 1500);
+    } catch (error) {
+      console.error('Copy failed', error);
+    }
+  };
 
   const getAlignment = (sender: Message['sender']) => {
     if (sender === 'system') return 'justify-center';
@@ -165,12 +186,7 @@ export default function ChatBox({ messages, messagesEndRef }: ChatBoxProps) {
             <Button
             size="icon"
             variant="ghost"
-            onClick={() => {
-              navigator.clipboard.writeText(msg.text);
-              setCopiedMsgId(msg.id);
-              // Ensure tick remains for 1 second (1000 ms)
-              setTimeout(() => setCopiedMsgId(null), 1500);
-            }}
+            onClick={() => handleCopy(msg.text, msg.id)}
             className={`absolute opacity-0 transition-opacity duration-300 group-hover:opacity-100 ${
               msg.sender === 'user' ? 'right-1' : 'left-1'
             } ${getCopyTheme(msg.sender)}`}
